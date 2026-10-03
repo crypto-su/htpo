@@ -1,0 +1,10 @@
+node_modules/
+dist/*
+!dist/htpo.min.js
+tmp/
+output/
+test-results/
+playwright-report/
+*.tgz
+.venv/
+.DS_Store

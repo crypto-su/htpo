@@ -1,0 +1,4 @@
+.columns { width: 400px; display: flow-root; }
+.column { float: left; width: 50%; height: 100px; }
+.column:first-child { background: blue; }
+.column:last-child { background: red; }
